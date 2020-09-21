@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b365d01-4f96-4e4b-8fb0-2b329703685e" name="Default Changelist" comment="123" />
+    <list id="576c14ab-20d6-421a-9a42-39e6aee8af99" name="New changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1hiU4t0K9PFmYzkwj8gwPzJfXwI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/Documents/Desktop/php-7.4.10-Win32-vc15-x64/php.exe" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHPUnit.untitled">
+    <configuration name="untitled" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.untitled" />
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b365d01-4f96-4e4b-8fb0-2b329703685e" name="Default Changelist" comment="" />
+      <changelist id="576c14ab-20d6-421a-9a42-39e6aee8af99" name="New changelist" comment="" />
+      <created>1600493218425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600493218425</updated>
+      <workItem from="1600493219942" duration="11000" />
+      <workItem from="1600493263871" duration="21000" />
+      <workItem from="1600493387979" duration="810000" />
+      <workItem from="1600593174754" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="179" key="#CLI_Interpreters" timestamp="1600493777157">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="540" y="179" key="#CLI_Interpreters/0.0.1920.1050@0.0.1920.1050" timestamp="1600493777157" />
+    <state x="667" y="167" key="#PHP" timestamp="1600493505143">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="667" y="167" key="#PHP/0.0.1920.1050@0.0.1920.1050" timestamp="1600493505143" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1600493745355">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1600493745355" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1600494206388">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600494206388" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1600494206388">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600494206388" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1600494206388">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600494206388" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1600494206388">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600494206388" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1600494206377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600494206377" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1600494206377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600494206377" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1600494206377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600494206377" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1600494206377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600494206377" />
+    <state x="794" y="448" key="NewPhpFileDialog" timestamp="1600493418457">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600493418457" />
+    <state x="389" y="211" key="SettingsEditor" timestamp="1600593223232">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="389" y="211" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1600593223231" />
+    <state x="790" y="394" key="VCS.EditChangelistDialog" timestamp="1600593256306">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="790" y="394" key="VCS.EditChangelistDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600593256306" />
+    <state x="351" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1600493814563">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="351" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600493814563" />
+  </component>
+</project>
